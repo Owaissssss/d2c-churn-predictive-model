@@ -1,5 +1,11 @@
 # D2C Customer Churn Intelligence — Part 3: Predictive Model Pipeline
 
+## Student & Course Information
+* **Student Name:** Mohammad Owais
+* **Registration Number:** iitp_aiml_2506198
+* **Email:** zkzonfamily@gmail.com
+* **Course:** IIT Patna AI/ML Course Capstone
+
 This repository contains **Part 3** of the e-commerce personal care churn prediction framework, implementing an engineered Random Forest Classifier tuned for low-margin business protection.
 
 ## Repository Layout
